@@ -1,11 +1,12 @@
-<h1>WEEK 3<h1>
+<h1>WEEK 3</h1>
 
 **Law_Of_Exponents_**
 
  Write a program for the law of exponents
  Include math.h header for powerfunction
  double pow(double base, doubleexponent);
- Prompt a menu to select theoperation to perform○ Compile with an additional linkingflag
+ Prompt a menu to select theoperation to perform
+ Compile with an additional linkingflag
  clang lawOfExponents.c -olawOfExponents -lm
 
 ***WEEK 4***
