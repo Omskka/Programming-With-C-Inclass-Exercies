@@ -1,4 +1,6 @@
-<h1>WEEK 3</h1>
+<h1>In_Class_Exercises_</h1>
+
+<h2>WEEK 3</h2>
 
 **Law_Of_Exponents_**
 
@@ -9,7 +11,7 @@
  Compile with an additional linkingflag
  clang lawOfExponents.c -olawOfExponents -lm
 
-<h1>WEEK 4</h1>
+<h2>WEEK 4</h2>
 
 **Factorial_**
 
@@ -26,11 +28,8 @@
  Write a C program to print all numbers for a given row and column numbers.
  Useformatting so that each number appears in a 4 digit slot.
  e.g. row = 3, col = 4
- 1   2  3   4
- 5   6  7   8
- 9  10  11  12
  
- <h1>WEEK 6</h1>
+ <h2>WEEK 6</h2>
  
  **Random_Array_**
  
@@ -40,7 +39,7 @@
  
  --------------------------------------------------------------------------------------------------------------------------
  
- 
+ <h1
  
  
  
