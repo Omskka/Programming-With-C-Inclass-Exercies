@@ -56,32 +56,52 @@
  4. Print the stock on the screen.
  5. Rules #1 :
  ● Due to a system failure the shop accepts coupons only, hence the customer’s total must be atleast 2.50 (which means the customer cannot buy just 2 black pencils). Hence print thefollowing on the screen after printing the stock on the screen:
+ 
  ○ Due to a system failure our shop accepts coupons only, your total must be at least 2.50
+ 
  ● Pencils are either coloured or black. The customer will input the choice for the type of thepencils as follows: 1 for coloured and 0 for block pencils. To indicate that, print the followingon the screen after printing the stock on the screen:
+ 
  ○ Our pencils are either colored or black. If you're buying pencils please put 1 forcolored and 0 for black
+ 
  ● A customer cannot buy coloured and block pencils at the same time. To indicate that print thefollowing on the screen after printing the stock on the screen:○ You cannot buy both colored and black pencils at the same time
+ 
  .● If customer changes her mind and selects nothing, farewell them kindly by a printed messageon the screen:○ You changed your mind? Please come back some other time!● Now, get the order of the customer. You’ll get 4 inputs separated by commas. Print thefollowing on the screen.
  
  ○ Please enter the number of items you will buy for all stock items.
+ 
  ○ Enter 2 inputs for pencils -- number of pencils and type (1 for colored, 0 for black)
+ 
  ○ number of rubbers and number of notebooks, a total of 4 inputs, 3 of them separatedwith commas.
+ 
  ○ e.g. 2 1, 0, 2 for 2 colored pencils, no rubbers and 2 notebooks
+ 
  ● If the customer bought only 2 black pencils, print the following message on the screen:
+ 
  ○ You bought only 2 black pencils. You should buy items worth at least 2.50
+ 
  ● If any one of the entered number of items is negative, print the following message on thescreen:
+ 
  ○ You entered an invalid # of items for at least one of the stock items.
+ 
  ● If the customer spent at least 10.0, we’re applying a discount of 10%. So print the followingon the screen (HINT: Be careful about the '%' character. Use '%' (not '\') to escape '%'):
+ 
  ○ Congratulations! You have a 10% discount for spending at least 10.0!After you successfully get the order, calculate the total that the customer has to pay. You can see theprices in the stock menu. See Rules #2.Rules #2:
+ 
  ● If the customer spends at least 10.0, apply a discount of 10%.
+ 
  ● Print the total on the screen, if the customer chose to leave without purchasing, price will be 0.Make sure that you format the output to have a total of 5 digits and 3 digits after the point:
+ 
  ○ Your total is: <the total will be seen here>.○ 
  
  <h2>LAB_WORK#2</h2>
  
  TASK: Write a C code to get a series of increasing numbers from the user. See the details below
  ● Stop getting numbers when a negative number is entered.
+ 
  ● Stop when the series becomes non-increasing or decreasing.
+ 
  ● Skip if the number entered is 0. That is, do not include it into the calculation of the average.
+ 
  ● At the end, print the average of all the numbers.
  
  
