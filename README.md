@@ -1,4 +1,4 @@
-***WEEk 3***
+<h1>WEEK 3<h1>
 
 **Law_Of_Exponents_**
 
