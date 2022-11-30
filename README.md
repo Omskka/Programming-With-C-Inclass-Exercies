@@ -30,7 +30,7 @@
  5   6  7   8
  9  10  11  12
  
- <h1>WEEK 6</h>
+ <h1>WEEK 6</h1>
  
  **Random_Array_**
  
