@@ -9,7 +9,7 @@
  Compile with an additional linkingflag
  clang lawOfExponents.c -olawOfExponents -lm
 
-***WEEK 4***
+<h1>WEEK 4</h1>
 
 **Factorial_**
 
@@ -30,7 +30,7 @@
  5   6  7   8
  9  10  11  12
  
- ***WEEK 6***
+ <h1>WEEK 6</h>
  
  **Random_Array_**
  
