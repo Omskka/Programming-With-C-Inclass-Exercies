@@ -48,8 +48,8 @@
  And get the order from the customer. Thereare some rules on how to get the order, check the Rules #1 section. After getting the order, calculatethe total amount and print the total on the screen. To see how to do it see Rules #2. See the outputsamples I provide on the third page as a guide.
  HINT #1: Make sure that your outputs on the screen matches exactly what’s provided to you.(pay attention to newlines, quotes, format specifiers, etc)
  HINT #2: When you declare a variable, a random location in the memory is allocated for itwhich can contain garbage value from a previous calculation. Hence initialize your variables to 0if you need to compare them in a condition. Refer to slide #41 from lecture #2
- The stock  
- :-- STOCK --
+ The stock:    
+ -- STOCK --
  1. Pencil: Colored 2.00, Black: 1.00
  2. Rubber: 1.50
  3. Notebook: 4.00
