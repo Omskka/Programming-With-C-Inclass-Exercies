@@ -55,7 +55,7 @@
  3. Notebook: 4.00
  4. Print the stock on the screen.
  5. Rules #1 :  
- ● Due to a system failure the shop accepts coupons only, hence the customer’s total must be atleast 2.50 (which means the customer cannot buy just 2 black pencils). Hence print thefollowing on the screen after printing the stock on the screen:
+● Due to a system failure the shop accepts coupons only, hence the customer’s total must be atleast 2.50 (which means the customer cannot buy just 2 black pencils). Hence print thefollowing on the screen after printing the stock on the screen:
  
  ○ Due to a system failure our shop accepts coupons only, your total must be at least 2.50
  
