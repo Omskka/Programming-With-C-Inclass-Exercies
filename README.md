@@ -65,7 +65,9 @@
  
  ● A customer cannot buy coloured and block pencils at the same time. To indicate that print thefollowing on the screen after printing the stock on the screen:○ You cannot buy both colored and black pencils at the same time
  
- .● If customer changes her mind and selects nothing, farewell them kindly by a printed messageon the screen:○ You changed your mind? Please come back some other time!● Now, get the order of the customer. You’ll get 4 inputs separated by commas. Print thefollowing on the screen.
+ .● If customer changes her mind and selects nothing, farewell them kindly by a printed messageon the screen:○ You changed your mind? Please come back some other time!
+ 
+ ● Now, get the order of the customer. You’ll get 4 inputs separated by commas. Print thefollowing on the screen.
  
  ○ Please enter the number of items you will buy for all stock items.
  
