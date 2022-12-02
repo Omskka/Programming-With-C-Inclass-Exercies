@@ -4,7 +4,7 @@
 
 **Law_Of_Exponents_**
 
- Write a program for the law of exponents
+ Write a program for the law of exponents  
  ●Include math.h header for powerfunction  
  ●double pow(double base, doubleexponent);  
  ●Prompt a menu to select theoperation to perform  
